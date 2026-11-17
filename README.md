@@ -21,11 +21,11 @@ I'm a B.Com student majoring in Data Analytics, and I've completed five end-to-e
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Warsaw EV Charging Network](https://github.com/tanushkacareers-source/warsaw-ev-charging-analysis)** | 114K charging sessions, 65 stations, 14 SQL queries, a 4-page Power BI dashboard and a leakage-safe Ridge model (test R² 0.82, RMSE 57% below baseline). | SQL · Power BI · Python · scikit-learn |
-| **[Apollo Hospitals No-Show Analysis](https://github.com/tanushkacareers-source/apollo-hospital-no-show-analysis)** | 75K appointments analysed in Python: 15.9% no-show rate, reminder/lead-time risk segments, and ~₹1.55 crore of revenue at risk. | Python · pandas · SciPy |
-| **[Amazon Brazil SQL Analysis](https://github.com/tanushkacareers-source/amazon-brazil-sql-analysis)** | 14 business questions across 7 tables using joins, CTEs, window functions and anti-joins — from peak order month to median delivery time. | MySQL · SQL |
-| **[Global Medal Review — Olympics](https://github.com/tanushkacareers-source/olympic-games-powerbi-dashboard)** | A 6-page interactive Power BI report on 21K medals, 156K athletes and 231 countries, with country and year slicers. | Power BI · DAX |
-| **[EV Charging Financial Review](https://github.com/tanushkacareers-source/ev-charging-financial-review-excel)** | A 4-dashboard Excel workbook on 35K sessions: usage, station efficiency, customer behaviour and a district ROI/payback model. | Advanced Excel · Pivot Tables |
+| **[Warsaw EV Charging Network](https://github.com/tanushka-kakkar/warsaw-ev-charging-analysis)** | 114K charging sessions, 65 stations, 14 SQL queries, a 4-page Power BI dashboard and a leakage-safe Ridge model (test R² 0.82, RMSE 57% below baseline). | SQL · Power BI · Python · scikit-learn |
+| **[Apollo Hospitals No-Show Analysis](https://github.com/tanushka-kakkar/apollo-hospital-no-show-analysis)** | 75K appointments analysed in Python: 15.9% no-show rate, reminder/lead-time risk segments, and ~₹1.55 crore of revenue at risk. | Python · pandas · SciPy |
+| **[Amazon Brazil SQL Analysis](https://github.com/tanushka-kakkar/amazon-brazil-sql-analysis)** | 14 business questions across 7 tables using joins, CTEs, window functions and anti-joins — from peak order month to median delivery time. | MySQL · SQL |
+| **[Global Medal Review — Olympics](https://github.com/tanushka-kakkar/olympic-games-powerbi-dashboard)** | A 6-page interactive Power BI report on 21K medals, 156K athletes and 231 countries, with country and year slicers. | Power BI · DAX |
+| **[EV Charging Financial Review](https://github.com/tanushka-kakkar/ev-charging-financial-review-excel)** | A 4-dashboard Excel workbook on 35K sessions: usage, station efficiency, customer behaviour and a district ROI/payback model. | Advanced Excel · Pivot Tables |
 
 ## Toolbox
 
