@@ -15,7 +15,7 @@
 
 I turn multi-table data into **KPIs, dashboards and plain-English recommendations**.
 
-I'm a B.Com student majoring in Data Analytics, and I've completed five end-to-end projects — from writing the SQL and cleaning the data, to building the dashboard or model, to explaining what the business should do next. Every project below has the code, the outputs and a short write-up, not just screenshots.
+I'm a B.Com student majoring in Data Analytics, and I've completed five end-to-end projects — from writing the SQL and cleaning the data, to building the dashboard or model, to explaining what the business should do next. Every project below includes the working files (SQL, notebook, workbook or Power BI file), the outputs and a short write-up — not just screenshots.
 
 ## Featured projects
 
